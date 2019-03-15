@@ -3,9 +3,8 @@
 django 应用工厂
 
 
-＃ FEATURES
+# FEATURES
 
+# 参考项目
 
-＃ 参考项目
-
-＃ 协作
+# 协作
